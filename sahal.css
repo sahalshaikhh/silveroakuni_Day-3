@@ -1,0 +1,17 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+header div a{
+    padding: 20px;
+    color: whitesmoke;
+    font-size: 20px;
+    text-decoration: none;
+}
+header div {
+    background-color: black;
+    padding: 25px;
+}
+header div a:hover{
+    background-color: rgba(235, 217, 186, 0.664);
+}
